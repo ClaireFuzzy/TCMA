@@ -173,15 +173,18 @@ Refer to the paper for dataset-specific comparisons and backbone configurations.
 
 If you use TCMA or DVTMD in your research, please cite the paper. / 如果在研究中使用 TCMA 或 DVTMD，请引用本文。
 
+Z. Zhao, Y. Zhan, Y. Li and Y. Li, "TCMA: Text-Conditioned Multigranularity Alignment for Drone Cross-Modal Text–Video Retrieval," in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 19, pp. 34849-34863, 2026, doi: [10.1109/JSTARS.2026.3741527](https://doi.org/10.1109/JSTARS.2026.3741527).
+
 ```bibtex
 @article{zhao2026tcma,
-  author  = {Zhao, Zixu and Zhan, Yang},
+  author  = {Zhao, Zixu and Zhan, Yang and Li, Yunhao and Li, Yan},
   title   = {{TCMA}: Text-Conditioned Multigranularity Alignment for Drone Cross-Modal Text--Video Retrieval},
   journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   year    = {2026},
   volume  = {19},
   pages   = {34849--34863},
-  doi     = {10.1109/JSTARS.2026.3741527}
+  doi     = {10.1109/JSTARS.2026.3741527},
+  keywords = {Videos;Modeling;Text to video;Buildings;Machining;Modules (abstract algebra);Visualization;Ranking (statistics);Construction;Drones;Cross-modal retrieval;multigranularity alignment;multimodal fusion;multimodal video–text representation;unmanned aerial vehicles (UAVs)}
 }
 ```
 
